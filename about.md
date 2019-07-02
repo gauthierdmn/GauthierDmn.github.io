@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+{% include image.html file="surf-gau.png" description="" %}
+
 I lead the Machine Learning effort at **GlobalEnglish**, an Education company building software for English learning and assessment based in San Mateo, CA. 
 
 My work focuses mainly on **Natural Language Processing** and in particular Natural Language Generation to create English learning material automatically, such as Reading Comprehension questions. Using algorithms to generate English exercises automatically provides the learners with content that is relevant to them (purposeful), adapted to their level and their learning style. Ultimately, the goal is to scale the content creation in order to personalize - read optimize - the way people learn English.
